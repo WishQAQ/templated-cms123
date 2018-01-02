@@ -1,0 +1,1 @@
+<div class="panel"><img src="[field:litpic/]"/></div>
